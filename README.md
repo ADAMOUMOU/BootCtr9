@@ -1,4 +1,4 @@
-# BootCTR9 - Arm9LoaderHax with bootloader for Nintendo 3DS
+# BootCTR9 - Arm9LoaderHax with bootloader for Nintendo 3DS and random bootscreen (proprietary for now)
 
 For Informations about it and its usage check out [its wikipage](https://github.com/hartmannaf/BootCtr9/wiki)
 
